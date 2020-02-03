@@ -149,9 +149,9 @@
     </v-content>
 
     <v-footer app :fixed="footer.fixed" :clipped-left="footer.clippedLeft" dark>
-      <span class="caption mx-3">&copy; 2019, Eldin Zaimovic</span>
+      <span class="caption mx-3">&copy; 2019, artminda chen</span>
       <v-spacer></v-spacer>
-      <span class="caption mx-3">IBM Coding Challenge</span>
+      <span class="caption mx-3">lodash practice</span>
     </v-footer>
   </v-app>
 </template>
