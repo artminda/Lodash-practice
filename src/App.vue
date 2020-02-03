@@ -16,11 +16,11 @@
           </v-list-tile-avatar>
 
           <v-list-tile-content>
-            <v-list-tile-title>Eldin Zaimovic</v-list-tile-title>
+            <v-list-tile-title>artminda chen</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
 
-        <v-list-tile href="https://github.com/EldinZaimovic" target="_blank">
+        <v-list-tile href="https://github.com/artminda" target="_blank">
           <v-list-tile-action>
             <v-icon large>fab fa-github</v-icon>
           </v-list-tile-action>
@@ -30,25 +30,6 @@
           </v-list-tile-content>
         </v-list-tile>
 
-        <v-list-tile href="https://www.linkedin.com/in/eldin-zaimovic" target="_blank">
-          <v-list-tile-action>
-            <v-icon large>fab fa-linkedin</v-icon>
-          </v-list-tile-action>
-
-          <v-list-tile-content>
-            <v-list-tile-title>LinkedIn</v-list-tile-title>
-          </v-list-tile-content>
-        </v-list-tile>
-
-        <v-list-tile href="https://www.xing.com/profile/Eldin_Zaimovic?sc_o=mxb_p" target="_blank">
-          <v-list-tile-action>
-            <v-icon large>fab fa-xing-square</v-icon>
-          </v-list-tile-action>
-
-          <v-list-tile-content>
-            <v-list-tile-title>Xing</v-list-tile-title>
-          </v-list-tile-content>
-        </v-list-tile>
       </v-list>
     </v-navigation-drawer>
 
